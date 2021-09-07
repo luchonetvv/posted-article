@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Posted Article App</string>
+    <string name="posted_article_list">Posted Articles List</string>
+    <string name="posted_back_webview">Back</string>
+</resources>
